@@ -29,10 +29,18 @@
 
 }
 
+
+
 .slide-main>div {
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    margin: 2px;
-    padding: 2px;
+    margin: 5px;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.slide-main p {
+    font-size: 14px;
+    margin: 5px;
 }
 
 .temp {
@@ -52,4 +60,8 @@
     padding: 10px;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.Bold {
+    font-weight: bold;
 }
